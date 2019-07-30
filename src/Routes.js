@@ -1,6 +1,10 @@
+// React
 import React from 'react';
+
+// React Router
 import { Route, Switch } from 'react-router-dom';
 
+// Components
 import HomePage from './components/pages/HomePage';
 
 class Routes extends React.Component {

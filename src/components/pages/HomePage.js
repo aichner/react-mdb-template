@@ -1,4 +1,7 @@
+// React
 import React from 'react';
+
+// MDB
 import {
   MDBEdgeHeader,
   MDBFreeBird,
@@ -14,6 +17,7 @@ import {
   MDBAnimation,
 } from 'mdbreact';
 
+// Logos
 import MDBLogo from '../../assets/mdb-react-small.png';
 import AgencyLogo from '../../assets/agency-small.png';
 

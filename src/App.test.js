@@ -1,5 +1,10 @@
+// React
 import React from 'react';
+
+// React DOM
 import ReactDOM from 'react-dom';
+
+// Root component
 import App from './App';
 
 it('renders without crashing', () => {

@@ -1,6 +1,11 @@
-import React from "react";
-import { MDBContainer } from "mdbreact";
-import classNames from "classnames";
+// React
+import React from 'react';
+
+// MDB
+import { MDBContainer } from 'mdbreact';
+
+// Combine values to export as class
+import classNames from 'classnames';
 
 let SectionContainer = ({
   children,

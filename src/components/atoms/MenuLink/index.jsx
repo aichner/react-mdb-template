@@ -1,4 +1,7 @@
+// React
 import React from 'react';
+
+// MDB
 import { MDBIcon, MDBNavLink } from 'mdbreact';
 
 const NavLink = ({ to, title }) => {

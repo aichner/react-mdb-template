@@ -1,5 +1,8 @@
-import React from "react";
-import { MDBRow, MDBIcon } from "mdbreact";
+// React
+import React from 'react';
+
+// MDB
+import { MDBRow, MDBIcon } from 'mdbreact';
 
 const DocsLink = props => {
   return (
