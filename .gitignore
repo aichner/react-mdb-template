@@ -1,19 +1,19 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
-# dependencies
+# Dependencies
 /node_modules
 
-# testing
+# Testing
 /coverage
 
-# production
+# Production
 /build
 
-# all editor configs but vscode
+# All editor configs but vscode
 .editorconfig
 .idea
 
-# logs
+# Logs
 *.log*
 
 # SPDX-License-Identifier: (EUPL-1.2)
