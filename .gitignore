@@ -9,7 +9,7 @@
 # production
 /build
 
-# config
+# all editor configs but vscode
 .editorconfig
 .idea
 
