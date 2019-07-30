@@ -1,13 +1,14 @@
-// React
+//> React
+// Contains all the functionality necessary to define React components
 import React from 'react';
-
-// React router
+// DOM bindings for React Router
 import { BrowserRouter as Router } from 'react-router-dom';
 
-// Components
+//> Components
+// The footer of the webpage
 import Footer from './components/molecules/Footer';
+// The navigation bar of the webpage
 import Navbar from './components/molecules/Navbar';
-
 // Routes
 import Routes from './Routes';
 

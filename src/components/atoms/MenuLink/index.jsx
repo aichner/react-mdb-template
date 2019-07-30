@@ -1,7 +1,9 @@
-// React
+//> React
+// Contains all the functionality necessary to define React components
 import React from 'react';
 
-// MDB
+//> MDB
+// "Material Design for Bootstrap" is a great UI design framework
 import { MDBIcon, MDBNavLink } from 'mdbreact';
 
 const NavLink = ({ to, title }) => {

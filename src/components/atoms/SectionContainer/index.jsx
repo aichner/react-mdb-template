@@ -1,10 +1,13 @@
-// React
+//> React
+// Contains all the functionality necessary to define React components
 import React from 'react';
 
-// MDB
+//> MDB
+// "Material Design for Bootstrap" is a great UI design framework
 import { MDBContainer } from 'mdbreact';
 
-// Combine values to export as class
+//> Additional helpers
+// Combine multiple class names to export as a single className
 import classNames from 'classnames';
 
 let SectionContainer = ({

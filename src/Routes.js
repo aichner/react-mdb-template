@@ -1,10 +1,11 @@
-// React
+//> React
+// Contains all the functionality necessary to define React components
 import React from 'react';
-
-// React Router
+// DOM bindings for React Router
 import { Route, Switch } from 'react-router-dom';
 
-// Components
+//> Components
+// A basic template page
 import HomePage from './components/pages/HomePage';
 
 class Routes extends React.Component {

@@ -1,7 +1,9 @@
-// React
+//> React
+// Contains all the functionality necessary to define React components
 import React from 'react';
 
-// MDB
+//> MDB
+// "Material Design for Bootstrap" is a great UI design framework
 import {
   MDBEdgeHeader,
   MDBFreeBird,
@@ -17,13 +19,17 @@ import {
   MDBAnimation,
 } from 'mdbreact';
 
-// Logos
+//> Images
+// Logo of MDB React
 import MDBLogo from '../../assets/mdb-react-small.png';
+// Logo of Advertisement Agency Christian Aichner
 import AgencyLogo from '../../assets/agency-small.png';
-
-// Content
+// Image of a handshake
 import HireUs from '../../assets/content/hire-us.jpg';
+// Logo of the React Bootstrap (outrun) project
+// Ref: https://github.com/aichner/React-Outrun
 import Outrun from '../../assets/content/outrun.jpg';
+// Image of someone coding
 import Projects from '../../assets/content/projects.jpg';
 
 class HomePage extends React.Component {
