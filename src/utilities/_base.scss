@@ -1,0 +1,59 @@
+.flyout {
+	display:flex;
+	flex-direction: column;
+	min-height:100vh;
+	justify-content: space-between;
+}
+
+// Navigation
+.agency-dark{
+	background-color: $agencyDark !important;
+	&.darken-1{
+		background-color: darken($agencyDark, 5%) !important;
+	}
+	&.darken-2{
+		background-color: darken($agencyDark, 10%) !important;
+	}
+	&.darken-3{
+		background-color: darken($agencyDark, 15%) !important;
+	}
+	&.lighten-1{
+		background-color: lighten($agencyDark, 10%) !important;
+	}
+	&.lighten-2{
+		background-color: lighten($agencyDark, 20%) !important;
+	}
+	&.lighten-3{
+		background-color: lighten($agencyDark, 30%) !important;
+	}
+}
+.agency-red{
+	background-color: $agencyRed !important;
+	&.darken-1{
+		background-color: darken($agencyRed, 10%) !important;
+	}
+	&.darken-21{
+		background-color: darken($agencyRed, 20%) !important;
+	}
+	&.darken-3{
+		background-color: darken($agencyRed, 30%) !important;
+	}
+	&.lighten-1{
+		background-color: lighten($agencyRed, 10%) !important;
+	}
+	&.lighten-2{
+		background-color: lighten($agencyRed, 20%) !important;
+	}
+	&.lighten-3{
+		background-color: lighten($agencyRed, 30%) !important;
+	}
+}
+
+.red-text{
+	color: $agencyRed !important;
+}
+
+/** 
+ * SPDX-License-Identifier: (EUPL-1.2)
+ * Copyright © 2019 Werbeagentur Christian Aichner
+ */
