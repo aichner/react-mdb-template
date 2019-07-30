@@ -5,8 +5,12 @@ import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 
 //> Components
-// A basic template page
-import HomePage from './components/pages/HomePage';
+/**
+ * HomePage: A basic template page
+ */
+import {
+  HomePage
+} from './components/pages';
 
 class Routes extends React.Component {
   render() {

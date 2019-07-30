@@ -5,10 +5,14 @@ import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
 
 //> Components
-// The footer of the webpage
-import Footer from './components/molecules/Footer';
-// The navigation bar of the webpage
-import Navbar from './components/molecules/Navbar';
+/**
+ * Footer: Global Footer
+ * Navbar: Global navigation bar
+ */
+import {
+  Footer,
+  Navbar,
+} from './components/molecules';
 // Routes
 import Routes from './Routes';
 
