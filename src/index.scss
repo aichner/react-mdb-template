@@ -1,11 +1,12 @@
-// Utilities
+//> Utilities
+// Variables
 @import 'utilities/variables';
-
-// Global
+// Global CSS
 @import 'utilities/base';
 
-// Local
-@import 'components/pages/HomePage';
+//> Components
+// Homepage (Template page)
+@import 'components/pages/HomePage/HomePage.scss';
 
 /** 
  * SPDX-License-Identifier: (EUPL-1.2)
