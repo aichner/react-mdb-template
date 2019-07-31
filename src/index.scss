@@ -1,10 +1,11 @@
-// Utilities
+//> Utilities
+// Variables
 @import 'utilities/variables';
-
 // Global CSS
 @import 'utilities/base';
 
-// Local CSS components
+//> Components
+// Homepage (Template page)
 @import 'components/pages/HomePage/HomePage.scss';
 
 /** 
