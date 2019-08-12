@@ -67,7 +67,7 @@ class Footer extends React.Component{
                     </MDBContainer>
                 </div>
             </MDBFooter>
-        )
+        );
     }
 }
 

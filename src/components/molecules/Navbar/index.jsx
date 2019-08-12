@@ -23,12 +23,12 @@ class Navbar extends React.Component{
         collapseID: ""
     };
 
-    toggleCollapse = collapseID => () =>
-        this.setState(prevState => ({
+    toggleCollapse = (collapseID) => () =>
+        this.setState((prevState) => ({
         collapseID: prevState.collapseID !== collapseID ? collapseID : ""
         }));
 
-    closeCollapse = collapseID => () => {
+    closeCollapse = (collapseID) => () => {
         window.scrollTo(0, 0);
         this.state.collapseID === collapseID && this.setState({ collapseID: "" });
     };
@@ -75,7 +75,7 @@ class Navbar extends React.Component{
             </MDBNavbar>
             {collapseID && overlay}
           </div>
-        )
+        );
     }
 }
 
