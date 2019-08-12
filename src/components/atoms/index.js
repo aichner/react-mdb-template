@@ -8,7 +8,7 @@ export {
     DocsLink,
     MenuLink,
     SectionContainer,
-}
+};
 
 /** 
  * SPDX-License-Identifier: (EUPL-1.2)

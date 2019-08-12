@@ -6,7 +6,7 @@ import Navbar from './Navbar';
 export {
     Footer,
     Navbar,
-}
+};
 
 /** 
  * SPDX-License-Identifier: (EUPL-1.2)
