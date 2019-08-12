@@ -75,7 +75,7 @@ class Navbar extends React.Component{
             </MDBNavbar>
             {collapseID && overlay}
           </div>
-        )
+        );
     }
 }
 
