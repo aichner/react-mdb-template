@@ -6,7 +6,7 @@ import React from 'react';
 // "Material Design for Bootstrap" is a great UI design framework
 import { MDBRow, MDBIcon } from 'mdbreact';
 
-const DocsLink = props => {
+const DocsLink = (props) => {
   return (
     <>
       <MDBRow className="align-items-center mt-5">
