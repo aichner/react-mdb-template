@@ -1,8 +1,8 @@
 {
-  "name": "your-app",
-  "version": "0.1.0",
+  "name": "react-mdb-template",
+  "version": "1.2.5",
   "private": true,
-  "// If You want to install mdbreact from our GitLab repository, please replace '4.18.0' with gitURL provided here ->": "git+https://oauth2:<YOUR-TOKEN-GOES-HERE>@git.mdbootstrap.com/mdb/react/re-pro.git",
+  "license": "(EUPL-1.2)",
   "dependencies": {
     "mdbreact": "4.18.1",
     "node-sass": "^4.12.0",
@@ -11,13 +11,15 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aichner/React-MDB-Template.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "rename": "renamer --find App-clear.js --replace App.js ./src/App-clear.js && renamer --find style.css --replace index.css ./src/style.css ",
-    "remove-demo": "rimraf ./src/assets ./src/components ./src/pages ./src/Routes.js ./src/App.js ./src/index.css && npm run rename"
+    "eject": "react-scripts eject"
   },
   "devDependencies": {
     "renamer": "^1.0.0",
