@@ -2,7 +2,6 @@
   "name": "react-mdb-template",
   "version": "1.0.0",
   "private": true,
-  "// If You want to install mdbreact from our GitLab repository, please replace '4.18.0' with gitURL provided here ->": "git+https://oauth2:<YOUR-TOKEN-GOES-HERE>@git.mdbootstrap.com/mdb/react/re-pro.git",
   "dependencies": {
     "mdbreact": "4.18.1",
     "node-sass": "^4.12.0",
@@ -10,6 +9,10 @@
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aichner/React-MDB-Template.git"
   },
   "scripts": {
     "start": "react-scripts start",
