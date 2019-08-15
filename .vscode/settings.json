@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "Consolas",
+    "workbench.colorTheme": "Dracula Soft",
+    "cSpell.words": [
+        "aichner",
+        "browserslist",
+        "eupl",
+        "mdbreact",
+        "precached",
+        "renamer",
+        "spdx",
+        "werbeagentur"
+    ],
+}
