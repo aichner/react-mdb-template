@@ -38,6 +38,5 @@
         "precached",
         "renamer",
         "webfonts"
-    ],
-    "eslint.alwaysShowStatus": true,
+    ]
 }
