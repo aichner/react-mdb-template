@@ -13,6 +13,6 @@
         "esbenp.prettier-vscode",
         "pmneo.tsimporter",
         "eg2.vscode-npm-script",
-        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-rename-tag"
     ]
 }
