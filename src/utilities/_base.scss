@@ -5,7 +5,11 @@
 	justify-content: space-between;
 }
 
-// Navigation
+main{
+	padding-top: 4rem;
+}
+
+// Custom colors
 .agency-dark{
 	background-color: $agencyDark !important;
 	&.darken-1{
