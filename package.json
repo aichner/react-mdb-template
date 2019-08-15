@@ -4,7 +4,6 @@
   "private": true,
   "license": "(EUPL-1.2)",
   "dependencies": {
-    "eslint": "^6.1.0",
     "mdbreact": "4.18.1",
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
