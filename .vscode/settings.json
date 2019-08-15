@@ -3,14 +3,35 @@
     "editor.fontLigatures": true,
     "terminal.integrated.fontFamily": "Consolas",
     "workbench.colorTheme": "Dracula Soft",
-    "cSpell.words": [
+    "cSpell.ignoreWords": [
         "aichner",
-        "browserslist",
         "eupl",
-        "mdbreact",
-        "precached",
-        "renamer",
+        "mdbreact",       
         "spdx",
         "werbeagentur"
+    ],
+    "cSpell.enabledLanguageIds": [
+        "html",
+        "go",
+        "javascript",
+        "javascriptreact",
+        "markdown",
+        "php",
+        "plaintext",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml",
+    ],
+    "cSpell.showStatus": true,
+    "cSpell.ignorePaths": [
+        "node_modules",
+    ],
+    "cSpell.words": [
+        "homescreen",
+        "webfonts",
+        "renamer",
+        "precached",
+        "browserslist",
     ],
 }
