@@ -15,5 +15,6 @@
         "pmneo.tsimporter",
         "dbaeumer.jshint",
         "eg2.vscode-npm-script",
+        "formulahendry.auto-rename-tag",
     ]
 }
