@@ -1,0 +1,42 @@
+{
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.snippetSuggestions": "top",
+    "terminal.integrated.fontFamily": "Consolas",
+    "workbench.colorTheme": "Dracula Soft",
+    "cSpell.ignoreWords": [
+        "aichner",
+        "eupl",
+        "mdbreact",       
+        "spdx",
+        "werbeagentur",
+        "fontawesome",
+        "fortawesome",
+        "reactjs",
+        "react.js"
+    ],
+    "cSpell.enabledLanguageIds": [
+        "html",
+        "go",
+        "javascript",
+        "javascriptreact",
+        "markdown",
+        "php",
+        "plaintext",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml"
+    ],
+    "cSpell.showStatus": true,
+    "cSpell.ignorePaths": [
+        "node_modules"
+    ],
+    "cSpell.words": [
+        "browserslist",
+        "homescreen",
+        "precached",
+        "renamer",
+        "webfonts"
+    ]
+}
