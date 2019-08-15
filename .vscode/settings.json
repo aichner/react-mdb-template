@@ -30,7 +30,7 @@
     ],
     "cSpell.showStatus": true,
     "cSpell.ignorePaths": [
-        "node_modules",
+        "node_modules"
     ],
     "cSpell.words": [
         "browserslist",
