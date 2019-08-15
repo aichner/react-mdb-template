@@ -9,7 +9,11 @@
         "eupl",
         "mdbreact",       
         "spdx",
-        "werbeagentur"
+        "werbeagentur",
+        "fontawesome",
+        "fortawesome",
+        "reactjs",
+        "react.js"
     ],
     "cSpell.enabledLanguageIds": [
         "html",
@@ -29,10 +33,11 @@
         "node_modules",
     ],
     "cSpell.words": [
-        "homescreen",
-        "webfonts",
-        "renamer",
-        "precached",
         "browserslist",
+        "homescreen",
+        "precached",
+        "renamer",
+        "webfonts"
     ],
+    "eslint.alwaysShowStatus": true,
 }
