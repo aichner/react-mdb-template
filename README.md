@@ -67,6 +67,8 @@ Get updates on our development and chat/talk with the project maintainers and co
 
 ## [](#versioning)Versioning
 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/aichner/React-MDB-Template)
+
 For transparency into our release cycle and in striving to maintain backward compatibility, this repository is
 maintained under [the Semantic Versioning guidelines](https://semver.org/). Sometimes we screw up, but we adhere to
 those rules whenever possible.
