@@ -16,7 +16,13 @@
   <a href="https://github.com/aichner/React-MDB-Template/issues/new?template=feature_request.md">Request feature</a>
   ·
   <a href="https://www.aichner-christian.com/damn/dev">Blog</a>
+  <br>
+  <br>
+  <a href="https://www.codacy.com/app/aichner/React-MDB-Template">
+    <img src="https://api.codacy.com/project/badge/Grade/579c145ee6cf4d7e8ae7c1c78a13617a" />
+  </a>
 </p>
+
 
 ## Table of contents
 
