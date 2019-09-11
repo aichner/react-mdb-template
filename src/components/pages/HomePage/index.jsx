@@ -33,7 +33,6 @@ import Outrun from '../../../assets/content/outrun.jpg';
 import Projects from '../../../assets/content/projects.jpg';
 
 class HomePage extends React.Component {
-  scrollToTop = () => window.scrollTo(0, 0);
   render() {
     return (
       <>
