@@ -5,10 +5,10 @@ import React from 'react';
 //> MDB
 // "Material Design for Bootstrap" is a great UI design framework
 import {
-  MDBFooter,
-  MDBRow,
-  MDBCol,
-  MDBContainer,
+    MDBFooter,
+    MDBRow,
+    MDBCol,
+    MDBContainer,
 } from 'mdbreact';
 
 class Footer extends React.Component{
@@ -41,7 +41,7 @@ class Footer extends React.Component{
                         </li>
                         </ul>
                     </MDBCol>
-                     <MDBCol md="3">
+                    <MDBCol md="3">
                         <h5 className="title">Links</h5>
                         <ul>
                         <li className="list-unstyled">
