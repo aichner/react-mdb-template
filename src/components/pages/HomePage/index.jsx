@@ -123,7 +123,12 @@ class HomePage extends React.Component {
                           <MDBCardText>
                             Find more of our amazing work and templates on GitHub!
                           </MDBCardText>
-                          <a className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline" href="https://github.com/aichner" target="_blank" rel="noopener noreferrer">
+                          <a 
+                          className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline"
+                          href="https://github.com/aichner"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          >
                               More
                           </a>
                         </MDBCardBody>
@@ -147,7 +152,12 @@ class HomePage extends React.Component {
                             Ready-to-use components that you can use in your
                             applications.
                           </MDBCardText>
-                          <a className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline" href="https://github.com/aichner/React-Outrun" target="_blank" rel="noopener noreferrer">
+                          <a 
+                          className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline"
+                          href="https://github.com/aichner/React-Outrun"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          >
                               More
                           </a>
                         </MDBCardBody>
@@ -168,10 +178,15 @@ class HomePage extends React.Component {
                             <strong>Hire us</strong>
                           </MDBCardTitle>
                           <MDBCardText>
-                            We provide excellent projects and services to improve the Online Marketing and Image of our satisfied customers.
+                            We provide excellent projects and services to improve the 
+                            Online Marketing and Image of our satisfied customers.
                           </MDBCardText>
-
-                          <a className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline" href="https://www.aichner-christian.com/?refer=mdbtemplate" target="_blank" rel="noopener noreferrer">
+                          <a 
+                          className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline"
+                          href="https://www.aichner-christian.com/?refer=mdbtemplate"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          >
                               More
                           </a>
                         </MDBCardBody>
