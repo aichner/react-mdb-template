@@ -48,10 +48,34 @@
 		background-color: lighten($red, 30%) !important;
 	}
 }
+.bg-green {
+	background-color: $green !important;
+	&.darken-1 {
+		background-color: darken($green, 10%) !important;
+	}
+	&.darken-2 {
+		background-color: darken($green, 20%) !important;
+	}
+	&.darken-3 {
+		background-color: darken($green, 30%) !important;
+	}
+	&.lighten-1 {
+		background-color: lighten($green, 10%) !important;
+	}
+	&.lighten-2 {
+		background-color: lighten($green, 20%) !important;
+	}
+	&.lighten-3 {
+		background-color: lighten($green, 30%) !important;
+	}
+}
 
 // Custom text
 .red-text {
 	color: $red !important;
+}
+.pink-text {
+	color: $pink !important;
 }
 
 // Buttons
