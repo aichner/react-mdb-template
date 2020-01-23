@@ -2,6 +2,7 @@
     "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.snippetSuggestions": "top",
+    "editor.rulers": [120],
     "terminal.integrated.fontFamily": "Consolas",
     "workbench.colorTheme": "Dracula Soft",
     "cSpell.ignoreWords": [
