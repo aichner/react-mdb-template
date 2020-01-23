@@ -24,6 +24,9 @@
 </p>
 
 <a href="https://www.buymeacoffee.com/M4SVRWQ" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://archiveprogram.github.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.aichner-christian.com/img/logo/code_vault.jpg" style="margin-top: 0.5rem" alt="Mars Time Logo" height="35">
+</a>
 
 
 ## Table of contents
@@ -93,6 +96,12 @@ those rules whenever possible.
 
 We do not have any external contributors yet, but if you want your name to be here, feel free
 to [contribute to our project](#contributing).
+
+## [](#vault)GitHub Arctic Vault
+This repository is ready for the GitHub Archive Program and therefore meets our GitHub guidelines and 2020 code style.
+<a href="https://archiveprogram.github.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.aichner-christian.com/img/logo/code_vault.jpg" style="margin-top: 0.5rem" alt="Mars Time Logo" height="35">
+</a>
 
 ## [](#copyright-and-license)Copyright and license
 
