@@ -20,7 +20,9 @@
   <br>
   <a href="https://www.codacy.com/app/aichner/React-MDB-Template">
     <img src="https://api.codacy.com/project/badge/Grade/579c145ee6cf4d7e8ae7c1c78a13617a" />
-    <img src="http://img.shields.io/liberapay/receives/aichner.svg?logo=liberapay">
+  </a>
+  <a href="https://liberapay.com/aichner/donate">
+  <img src="http://img.shields.io/liberapay/receives/aichner.svg?logo=liberapay">
   </a>
 </p>
 
