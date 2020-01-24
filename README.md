@@ -20,12 +20,13 @@
   <br>
   <a href="https://www.codacy.com/app/aichner/React-MDB-Template">
     <img src="https://api.codacy.com/project/badge/Grade/579c145ee6cf4d7e8ae7c1c78a13617a" />
+    <img src="http://img.shields.io/liberapay/receives/aichner.svg?logo=liberapay">
   </a>
 </p>
 
-<a href="https://www.buymeacoffee.com/M4SVRWQ" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://liberapay.com/aichner/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 <a href="https://archiveprogram.github.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.aichner-christian.com/img/logo/code_vault.jpg" style="margin-top: 0.5rem" alt="Mars Time Logo" height="35">
+  <img src="https://www.aichner-christian.com/img/logo/code_vault.jpg" style="margin-top: 0.5rem" alt="Mars Time Logo" height="30">
 </a>
 
 
