@@ -10,6 +10,9 @@ package-lock.json
 # Production
 /build
 
+# MDB
+mdbreact-*
+
 # All editor configs but vscode
 .editorconfig
 .idea

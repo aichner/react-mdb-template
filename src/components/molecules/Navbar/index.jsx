@@ -1,6 +1,6 @@
 //> React
 // Contains all the functionality necessary to define React components
-import React from 'react';
+import React from "react";
 
 //> MDB
 // "Material Design for Bootstrap" is a great UI design framework
@@ -13,10 +13,10 @@ import {
     MDBNavItem,
     MDBNavLink,
     MDBContainer,
-} from 'mdbreact';
+} from "mdbreact";
 
 // React Logo
-import { ReactComponent as Logo } from '../../../assets/logo.svg';
+import { ReactComponent as Logo } from "../../../assets/logo.svg";
 
 class Navbar extends React.Component{
     state = {

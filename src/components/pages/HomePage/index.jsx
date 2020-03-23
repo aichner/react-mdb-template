@@ -121,7 +121,7 @@ class HomePage extends React.Component {
                         target="_blank"
                         rel="noopener noreferrer"
                         >
-                            More
+                          More
                         </a>
                       </MDBCardBody>
                     </MDBCard>

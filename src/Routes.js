@@ -1,8 +1,8 @@
 //> React
 // Contains all the functionality necessary to define React components
-import React from 'react';
+import React from "react";
 // DOM bindings for React Router
-import { Route, Switch } from 'react-router-dom';
+import { Route, Switch } from "react-router-dom";
 
 //> Components
 /**
@@ -10,13 +10,13 @@ import { Route, Switch } from 'react-router-dom';
  */
 import {
   HomePage
-} from './components/pages';
+} from "./components/pages";
 
 class Routes extends React.Component {
   render() {
     return (
       <Switch>
-        <Route exact path='/' component={HomePage} />
+        <Route exact path="/" component={HomePage} />
           
         <Route
           render={function () {
