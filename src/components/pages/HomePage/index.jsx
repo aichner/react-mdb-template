@@ -36,13 +36,13 @@ class HomePage extends React.Component {
   render() {
     return (
       <>
-        <MDBEdgeHeader color="agency-red" className="sectionPage" />
+        <MDBEdgeHeader color="bg-red" className="sectionPage" />
         <div className="mt-3 mb-5">
           <MDBFreeBird>
             <MDBRow>
               <MDBCol
                 md="10"
-                className="mx-auto float-none white z-depth-1 py-2 px-2"
+                className="mx-auto float-none white py-2 px-2 border"
               >
                 <MDBCardBody className="text-center">
                   <h2 className="h2-responsive mb-4">
@@ -101,97 +101,36 @@ class HomePage extends React.Component {
                   both of them - Material Design for Bootstrap.
                 </p>
                 <hr className="my-5" />
-
-                <MDBRow id="categories">
+                <MDBRow id="categories" className="justify-content-center">
                   <MDBCol md="4">
-                    <MDBAnimation reveal type="fadeInLeft">
-                      <MDBCard cascade className="my-3 grey lighten-4">
-                        <MDBCardImage
-                          cascade
-                          className="img-fluid"
-                          src={Projects}
-                        />
-                        <MDBCardBody cascade className="text-center">
-                          <MDBCardTitle>
-                            <MDBIcon
-                              icon="github"
-                              brand
-                              className="dark-text pr-2"
-                            />
-                            <strong>GitHub</strong>
-                          </MDBCardTitle>
-                          <MDBCardText>
-                            Find more of our amazing work and templates on GitHub!
-                          </MDBCardText>
-                          <a 
-                          className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline"
-                          href="https://github.com/aichner"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          >
-                              More
-                          </a>
-                        </MDBCardBody>
-                      </MDBCard>
-                    </MDBAnimation>
-                  </MDBCol>
-                  <MDBCol md="4">
-                    <MDBAnimation reveal type="fadeInDown">
-                      <MDBCard cascade className="my-3 grey lighten-4">
-                        <MDBCardImage
-                          cascade
-                          className="img-fluid"
-                          src={Outrun}
-                        />
-                        <MDBCardBody cascade className="text-center">
-                          <MDBCardTitle>
-                            <MDBIcon fab icon="bootstrap" className="pink-text pr-2" />
-                            <strong>React Bootstrap</strong>
-                          </MDBCardTitle>
-                          <MDBCardText>
-                            Ready-to-use components that you can use in your
-                            applications.
-                          </MDBCardText>
-                          <a 
-                          className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline"
-                          href="https://github.com/aichner/React-Outrun"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          >
-                              More
-                          </a>
-                        </MDBCardBody>
-                      </MDBCard>
-                    </MDBAnimation>
-                  </MDBCol>
-                  <MDBCol md="4">
-                    <MDBAnimation reveal type="fadeInRight">
-                      <MDBCard cascade className="my-3 grey lighten-4">
-                        <MDBCardImage
-                          cascade
-                          className="img-fluid"
-                          src={HireUs}
-                        />
-                        <MDBCardBody cascade className="text-center">
-                          <MDBCardTitle>
-                            <MDBIcon icon="code" className="green-text pr-2" />
-                            <strong>Hire us</strong>
-                          </MDBCardTitle>
-                          <MDBCardText>
-                            We provide excellent projects and services to improve the 
-                            Online Marketing and Image of our satisfied customers.
-                          </MDBCardText>
-                          <a 
-                          className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline"
-                          href="https://www.aichner-christian.com/?refer=mdbtemplate"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          >
-                              More
-                          </a>
-                        </MDBCardBody>
-                      </MDBCard>
-                    </MDBAnimation>
+                    <MDBCard cascade className="my-3 grey lighten-4">
+                      <MDBCardImage
+                        cascade
+                        className="img-fluid"
+                        src={Projects}
+                      />
+                      <MDBCardBody cascade className="text-center">
+                        <MDBCardTitle>
+                          <MDBIcon
+                            icon="github"
+                            brand
+                            className="dark-text pr-2"
+                          />
+                          <strong>GitHub</strong>
+                        </MDBCardTitle>
+                        <MDBCardText>
+                          Find more of our amazing work and templates on GitHub!
+                        </MDBCardText>
+                        <a 
+                        className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline"
+                        href="https://github.com/aichner"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >
+                            More
+                        </a>
+                      </MDBCardBody>
+                    </MDBCard>
                   </MDBCol>
                 </MDBRow>
               </MDBCol>
