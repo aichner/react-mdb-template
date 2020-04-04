@@ -1,11 +1,12 @@
 {
   "name": "react-mdb-template",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "private": true,
   "license": "(EUPL-1.2)",
   "homepage": ".",
   "dependencies": {
     "mdbreact": "^4.24.0",
+    "gh-pages": "^2.2.0",
     "node-sass": "^4.13.0",
     "react-router-dom": "^5.0.1",
     "react-scripts": "^3.3.0"
