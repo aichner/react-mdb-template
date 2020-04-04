@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.aichner-christian.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.aichner-christian.com/img/logo/logo_web.png" alt="Agency Logo" height="150">
+    <img src="https://github.com/aichner/React-MDB-Template/blob/master/src/assets/react-mdb.jpg?raw=true" alt="Agency Logo" height="250" style="max-width: 100%">
   </a>
 </p>
 
