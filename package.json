@@ -27,7 +27,6 @@
     "react-dom": "^16.8.6",
     "renamer": "^1.0.0",
     "rimraf": "^2.6.2",
-    "react": "^16.8.6"
   },
   "browserslist": [
     ">0.2%",
