@@ -47,6 +47,7 @@
 
 - Clone the repository: `git clone https://github.com/aichner/React-MDB-Template.git react-mdb`
 - Go to the new folder `cd react-mdb`
+- (Optional) For a better experience purchase MDB React Pro and change the source of `"mdbreact"` in the `package.json`
 - Run `npm install`
 - Start with `npm start`
 
