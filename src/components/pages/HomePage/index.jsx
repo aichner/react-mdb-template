@@ -26,6 +26,9 @@ import AgencyLogo from "../../../assets/agency-small.png";
 // Image of someone coding
 import Projects from "../../../assets/content/projects.jpg";
 
+//> CSS
+import "./HomePage.scss";
+
 class HomePage extends React.Component {
   render() {
     return (
