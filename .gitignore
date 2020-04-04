@@ -13,6 +13,9 @@ package-lock.json
 # MDB
 mdbreact-*
 
+# Environment variables
+.env
+
 # All editor configs but vscode
 .editorconfig
 .idea
