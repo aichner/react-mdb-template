@@ -41,4 +41,4 @@
 -   Each pull request should be merged by the maintainer
 
 SPDX-License-Identifier: (EUPL-1.2)
-Copyright © 2019-2020 Werbeagentur Christian Aichner
+Copyright © 2020 Werbeagentur Christian Aichner

@@ -112,7 +112,7 @@ This repository is ready for the GitHub Archive Program and therefore meets our 
 ![GitHub repository license](https://img.shields.io/badge/license-EUPL--1.2-blue)
 
 SPDX-License-Identifier: (EUPL-1.2)
-Copyright © 2019 Werbeagentur Christian Aichner
+Copyright © 2020 Werbeagentur Christian Aichner
 
 [discord-badge]: https://img.shields.io/badge/Discord-Join%20chat%20%E2%86%92-738bd7.svg
 [discord]: https://discord.gg/dnxUJmk
