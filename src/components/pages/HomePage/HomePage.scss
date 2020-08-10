@@ -1,26 +1,23 @@
-body {
-	background:#fff;
-}
-
 a.border.nav-link.border-light.rounded.mr-1 {
-  color: #3F729B;
+  color: #3f729b;
 }
 
 a.border.nav-link.border-light.rounded.mr-1:hover {
-  color: #1C2331;
+  color: #1c2331;
 }
 
-.btn.btn-sm.indigo:hover{
+.btn.btn-sm.indigo:hover {
   color: #fff;
 }
 
-.nav-link.active{
+.nav-link.active {
   background-color: rgba(255, 255, 255, 0.1);
 }
 
-#categories > .col-md-4.mb-5{
+#categories > .col-md-4.mb-5 {
   margin-bottom: 8rem !important;
 }
+
 .sectionPage {
   position: relative;
   top: -15px;
@@ -28,14 +25,14 @@ a.border.nav-link.border-light.rounded.mr-1:hover {
 }
 
 .home-feature-box .fa {
-	font-size:6rem;
+  font-size: 6rem;
 }
 
 .home-feature-box span {
-	display: block;
-	color:#111;
-	font-weight:bold;
-	margin-top:1.5rem;
+  display: block;
+  color: #111;
+  font-weight: bold;
+  margin-top: 1.5rem;
 }
 
 .example-components-list li > a {
@@ -43,12 +40,12 @@ a.border.nav-link.border-light.rounded.mr-1:hover {
 }
 
 .example-components-list li:last-child > a {
-	border-bottom:0;
+  border-bottom: 0;
 }
 
 .example-components-list li > a .fa {
-	color:rgba(0,0,0,.35);
-	float:right;
+  color: rgba(0, 0, 0, 0.35);
+  float: right;
 }
 
 /** 
