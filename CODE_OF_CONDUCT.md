@@ -1,12 +1,13 @@
 <p align="center">
   <a href="https://www.aichner-christian.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.aichner-christian.com/img/logo/logo_web.png" alt="Agency Logo" height="150">
+    <img src="https://avatars1.githubusercontent.com/u/50574311?s=200&v=4g" alt="Agency Logo" height="150">
   </a>
 </p>
 
-<h3 align="center">Official code of conflict</h3>
+<h3 align="center">Official Code of Conflict</h3>
 
 ## Table of contents
+- [Table of contents](#table-of-contents)
 - [Conflicts](#conflicts)
 
 ## [](#conflicts)Conflicts

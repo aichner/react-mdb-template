@@ -1,3 +1,4 @@
+//#region > Imports
 //> React
 // Contains all the functionality necessary to define React components
 import React from "react";
@@ -24,13 +25,14 @@ import "./index.scss";
 import App from "./App";
 
 import registerServiceWorker from "./registerServiceWorker";
+//#endregion
 
 // Render the root component to <div id="root"></div>
-ReactDOM.render( <App /> , document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
 
 registerServiceWorker();
 
-/** 
+/**
  * SPDX-License-Identifier: (EUPL-1.2)
- * Copyright © 2019 Werbeagentur Christian Aichner
+ * Copyright © 2020 Werbeagentur Christian Aichner
  */

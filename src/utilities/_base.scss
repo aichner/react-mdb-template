@@ -1,108 +1,136 @@
+body {
+  background: #fff;
+}
+
 .flyout {
-	display: flex;
-	flex-direction: column;
-	min-height: 100vh;
-	justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
 }
 
 // Custom colors
 .bg-dark {
-	background-color: $dark !important;
-	&.darken-1 {
-		background-color: darken($dark, 5%) !important;
-	}
-	&.darken-2 {
-		background-color: darken($dark, 10%) !important;
-	}
-	&.darken-3 {
-		background-color: darken($dark, 15%) !important;
-	}
-	&.lighten-1 {
-		background-color: lighten($dark, 10%) !important;
-	}
-	&.lighten-2 {
-		background-color: lighten($dark, 20%) !important;
-	}
-	&.lighten-3 {
-		background-color: lighten($dark, 30%) !important;
-	}
+  background-color: $dark !important;
+
+  &.darken-1 {
+    background-color: darken($dark, 5%) !important;
+  }
+
+  &.darken-2 {
+    background-color: darken($dark, 10%) !important;
+  }
+
+  &.darken-3 {
+    background-color: darken($dark, 15%) !important;
+  }
+
+  &.lighten-1 {
+    background-color: lighten($dark, 10%) !important;
+  }
+
+  &.lighten-2 {
+    background-color: lighten($dark, 20%) !important;
+  }
+
+  &.lighten-3 {
+    background-color: lighten($dark, 30%) !important;
+  }
 }
+
 .bg-red {
-	background-color: $red !important;
-	&.darken-1 {
-		background-color: darken($red, 10%) !important;
-	}
-	&.darken-2 {
-		background-color: darken($red, 20%) !important;
-	}
-	&.darken-3 {
-		background-color: darken($red, 30%) !important;
-	}
-	&.lighten-1 {
-		background-color: lighten($red, 10%) !important;
-	}
-	&.lighten-2 {
-		background-color: lighten($red, 20%) !important;
-	}
-	&.lighten-3 {
-		background-color: lighten($red, 30%) !important;
-	}
+  background-color: $red !important;
+
+  &.darken-1 {
+    background-color: darken($red, 10%) !important;
+  }
+
+  &.darken-2 {
+    background-color: darken($red, 20%) !important;
+  }
+
+  &.darken-3 {
+    background-color: darken($red, 30%) !important;
+  }
+
+  &.lighten-1 {
+    background-color: lighten($red, 10%) !important;
+  }
+
+  &.lighten-2 {
+    background-color: lighten($red, 20%) !important;
+  }
+
+  &.lighten-3 {
+    background-color: lighten($red, 30%) !important;
+  }
 }
+
 .bg-green {
-	background-color: $green !important;
-	&.darken-1 {
-		background-color: darken($green, 10%) !important;
-	}
-	&.darken-2 {
-		background-color: darken($green, 20%) !important;
-	}
-	&.darken-3 {
-		background-color: darken($green, 30%) !important;
-	}
-	&.lighten-1 {
-		background-color: lighten($green, 10%) !important;
-	}
-	&.lighten-2 {
-		background-color: lighten($green, 20%) !important;
-	}
-	&.lighten-3 {
-		background-color: lighten($green, 30%) !important;
-	}
+  background-color: $green !important;
+
+  &.darken-1 {
+    background-color: darken($green, 10%) !important;
+  }
+
+  &.darken-2 {
+    background-color: darken($green, 20%) !important;
+  }
+
+  &.darken-3 {
+    background-color: darken($green, 30%) !important;
+  }
+
+  &.lighten-1 {
+    background-color: lighten($green, 10%) !important;
+  }
+
+  &.lighten-2 {
+    background-color: lighten($green, 20%) !important;
+  }
+
+  &.lighten-3 {
+    background-color: lighten($green, 30%) !important;
+  }
 }
 
 // Custom text
 .red-text {
-	color: $red !important;
+  color: $red !important;
 }
+
 .pink-text {
-	color: $pink !important;
+  color: $pink !important;
 }
 
 // Buttons
 .btn {
-	box-shadow: none !important;
-	&:hover {
-		box-shadow: none;
-	}
-	&:active {
-		box-shadow: none;
-	}
-	&:focus {
-		box-shadow: none;
-	}
+  box-shadow: none !important;
+
+  &:hover {
+    box-shadow: none;
+  }
+
+  &:active {
+    box-shadow: none;
+  }
+
+  &:focus {
+    box-shadow: none;
+  }
 }
 
 // Cards
 .card {
-	box-shadow: none;
+  box-shadow: none;
 }
 
 // Generic
 .clickable {
-	cursor: pointer !important;
+  cursor: pointer !important;
 }
 
 /** 
  * SPDX-License-Identifier: (EUPL-1.2)
- * Copyright © 2019 Werbeagentur Christian Aichner
+ * Copyright © 2020 Werbeagentur Christian Aichner
  */

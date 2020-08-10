@@ -1,3 +1,4 @@
+//#region > Imports
 //> React
 // Contains all the functionality necessary to define React components
 import React from "react";
@@ -5,19 +6,19 @@ import React from "react";
 import { Route, Switch } from "react-router-dom";
 
 //> Components
-/**
- * HomePage: A basic template page
- */
-import {
-  HomePage
-} from "./components/pages";
+import { HomePage } from "./components/pages";
+//#endregion
 
+//#region > Components
+/**
+ * @class Routes Components
+ * @description Contains all routes
+ */
 class Routes extends React.Component {
   render() {
     return (
       <Switch>
         <Route exact path="/" component={HomePage} />
-          
         <Route
           render={function () {
             return <h1>Not Found</h1>;
@@ -27,10 +28,13 @@ class Routes extends React.Component {
     );
   }
 }
+//#endregion
 
+//#region > Exports
 export default Routes;
+//#endregion
 
-/** 
+/**
  * SPDX-License-Identifier: (EUPL-1.2)
- * Copyright © 2019 Werbeagentur Christian Aichner
+ * Copyright © 2020 Werbeagentur Christian Aichner
  */

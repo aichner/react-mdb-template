@@ -1,3 +1,4 @@
+//#region > Imports
 //> React
 // Contains all the functionality necessary to define React components
 import React from "react";
@@ -28,7 +29,13 @@ import Projects from "../../../assets/content/projects.jpg";
 
 //> CSS
 import "./HomePage.scss";
+//#endregion
 
+//#region > Components
+/**
+ * @class Template Homepage Component
+ * @description Provides a first template to see when you run this app
+ */
 class HomePage extends React.Component {
   render() {
     return (
@@ -72,7 +79,9 @@ class HomePage extends React.Component {
                       rel="noopener noreferrer"
                     >
                       <MDBIcon icon="graduation-cap" className="mr-2" />
-                      <span className="font-weight-bold">Official Documentation</span>
+                      <span className="font-weight-bold">
+                        Official Documentation
+                      </span>
                     </a>
                   </MDBRow>
                 </MDBCardBody>
@@ -118,11 +127,11 @@ class HomePage extends React.Component {
                         <MDBCardText>
                           Find more of our amazing work and templates on GitHub!
                         </MDBCardText>
-                        <a 
-                        className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline"
-                        href="https://github.com/aichner"
-                        target="_blank"
-                        rel="noopener noreferrer"
+                        <a
+                          className="btn btn-outline-mdb-color btn-sm btn-rounded d-inline"
+                          href="https://github.com/aichner"
+                          target="_blank"
+                          rel="noopener noreferrer"
                         >
                           More
                         </a>
@@ -138,10 +147,13 @@ class HomePage extends React.Component {
     );
   }
 }
+//#endregion
 
+//#region > Exports
 export default HomePage;
+//#endregion
 
-/** 
+/**
  * SPDX-License-Identifier: (EUPL-1.2)
- * Copyright © 2019 Werbeagentur Christian Aichner
+ * Copyright © 2020 Werbeagentur Christian Aichner
  */
