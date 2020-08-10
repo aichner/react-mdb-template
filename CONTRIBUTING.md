@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Official contributing guidelines</h3>
+<h3 align="center">Official Contributing Guidelines</h3>
 
 <p align="center">
   A code of conduct is a set of rules outlining the norms, rules, and responsibilities of, 
